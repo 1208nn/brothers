@@ -130,6 +130,7 @@ comments:
     clientID    : 9cd516e6f5bf3ac05434 # GitHub Application Client ID
     clientSecret: 1682ec5eee4acdfe0960cebd06616480877b4022 # GitHub Application Client Secret
     repository  : brothers # GitHub repo
+    proxy       : https://gitalk-proxy.1208nn.workers.dev
     owner       : 1208nn # GitHub repo owner
     admin: 1208nn # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id

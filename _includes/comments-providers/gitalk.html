@@ -29,7 +29,7 @@
 				clientID: '{{ site.comments.gitalk.clientID }}',
 				clientSecret: '{{ site.comments.gitalk.clientSecret }}',
 				repo: '{{ site.comments.gitalk.repository }}',
-				proxy: '{{ site.comments.gitalk.proxy }}',
+				proxy: '{{ site.comments.gitalk.proxy }}'+'?',
 				owner: '{{ site.comments.gitalk.owner }}',
 				admin: [{{ _admin }}],
 				id: '{{ page.key }}'

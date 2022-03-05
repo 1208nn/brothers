@@ -1,7 +1,7 @@
 ---
 title: Post with Header Image
 tags: TeXt
-pulished: fales
+published: false
 article_header:
   type: cover
   image:

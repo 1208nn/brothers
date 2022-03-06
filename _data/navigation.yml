@@ -1,4 +1,6 @@
 header:
+  - title: 主站
+    url: https://brothers.gq/
   - titles:
       # @start locale config
       en      : &EN       Archive
